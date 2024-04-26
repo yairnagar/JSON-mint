@@ -1,0 +1,20 @@
+{
+    "name": "Concert Ticket - The Weeknd",
+    "description": "Admit one to The Weeknd's Starry Night concert.",
+    "image": "https://example.com/path/to/ticket_image.png",
+    "attributes": [
+      {
+        "trait_type": "Event Date",
+        "value": "2024-09-15"
+      },
+      {
+        "trait_type": "Venue",
+        "value": "Madison Square Garden"
+      },
+      {
+        "trait_type": "Seat",
+        "value": "Section B, Row 5, Seat 20"
+      }
+    ]
+  }
+  
